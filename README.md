@@ -30,7 +30,7 @@ WebHarvester 是一個基於 Laravel 後端與 Nuxt.js 前端的現代化網頁�
 
 ## 🚀 安裝指南
 
-### 1. 克隆專案
+### 1. clone專案
 ```bash
 git clone https://github.com/your-username/WebHarvester.git
 cd WebHarvester
