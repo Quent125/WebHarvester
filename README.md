@@ -118,4 +118,8 @@ API_BASE_URL=http://localhost:8000/api
 - **忘記密碼功能** - 目前忘記密碼功能需要整合郵件服務，暫時尚未實作完成
   - **臨時解決方案**: 請聯絡系統管理員協助重設密碼
 
-📧 **聯絡方式**: [建立 Issue](https://github.com/your-username/WebHarvester/issues)
+## 📞 聯絡資訊
+
+- **📧 電子郵件**: [t113318101@ntut.org.tw](mailto:t113318101@ntut.org.tw)
+- **🔗 GitHub**: [Quent125/WebHarvester](https://github.com/Quent125/WebHarvester)
+
