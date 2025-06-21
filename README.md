@@ -41,22 +41,22 @@ cd WebHarvester
 ```bash
 cd api
 
-# 安裝 PHP 依賴
+# 安裝 PHP
 composer install
 
 # 複製環境設定檔
 cp .env.example .env
 
-# 生成應用程式金鑰
+# 產生金鑰
 php artisan key:generate
 
 # 設置資料庫
 php artisan migrate
 
-# 發布 Sanctum 設定
+# Sanctum 設定
 php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
 
-# 啟動開發伺服器
+# 啟動伺服器
 php artisan serve
 ```
 
@@ -71,7 +71,7 @@ npm install
 # 複製環境設定檔
 cp .env.example .env
 
-# 啟動開發伺服器
+# 啟動伺服器
 npm run dev
 ```
 
